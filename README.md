@@ -1,0 +1,1 @@
+A powerful online engagement platform that's intuitive and simple to use. This project showcases a modern, responsive landing page designed for businesses to create, distribute, collect, and analyze feedback at scale.
